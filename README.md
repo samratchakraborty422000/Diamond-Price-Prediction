@@ -96,3 +96,9 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+## Screenshots
+
+<img width="1128" height="866" alt="image" src="https://github.com/user-attachments/assets/1db64ac0-4877-4579-babd-5af520cec408" />
+
+<img width="1332" height="708" alt="image" src="https://github.com/user-attachments/assets/74cabaa6-3fde-48f9-91fa-73351ce7ddaa" />
+
