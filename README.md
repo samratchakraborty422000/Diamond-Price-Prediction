@@ -80,8 +80,8 @@ There are **no missing values** in the dataset.
 - Saved using `pickle`:
 
   ```python
-  with open("catboost_model.pkl", "wb") as f:
-      pickle.dump(model, f)
+  with open("catboost_model.pkl", "rb") as f:
+    cat_loaded = pickle.load(f)
 
 ## 💻 Run the app locally:
 
